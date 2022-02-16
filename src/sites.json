@@ -33,7 +33,7 @@
     "method": "POST",
     "url": "https://jzsz.uestc.edu.cn/wxvacation/api/epidemic/monitorRegister",
     "data": {
-      "currentAddress": "江苏省苏州市常熟市",
+      "currentAddress": "青海省西宁市城东区七一东路18号",
       "remark": "",
       "healthInfo": "正常",
       "healthColor": "绿色",
@@ -43,9 +43,9 @@
       "isLeaveChengdu": 1,
       "isSymptom": 0,
       "temperature": "36.5°C~36.9°C",
-      "province": "江苏省",
-      "city": "苏州市",
-      "county": "常熟市"
+      "province": "青海省",
+      "city": "西宁市",
+      "county": "城东区七一东路18号"
     }
   }
 }
